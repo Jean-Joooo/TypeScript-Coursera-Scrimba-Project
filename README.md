@@ -1,1 +1,1 @@
-## Project TypeScript Coursera Scrimba ##
+## Courses Project TypeScript Coursera Scrimba ##
