@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jean-joooo.github.io/typescript-coursera-scrimba-project/",
+  "homepage": "https://jean-joooo.github.io/TypeScript-Coursera-Scrimba-Project/",
   "name": "project",
   "devDependencies": {
     "fork-ts-checker-webpack-plugin": "^9.0.2",
