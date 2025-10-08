@@ -1,4 +1,4 @@
-## Coursera | Scrimba TypeScript courses
+## Coursera | Scrimba TypeScript Course
 
 I followed this course to have a better understanding of TypeScript, which where mainly structured through the build of a TypeScript project. 
 
